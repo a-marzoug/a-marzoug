@@ -113,7 +113,3 @@ If you are working on:
 - Scalable AI engineering solutions
 
 I welcome collaboration, technical discussions, and professional opportunities.
-
----
-
-**Agentic AI is not just about intelligence — it is about reliable autonomy in real systems.**
